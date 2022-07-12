@@ -18,6 +18,8 @@ HELP_TEXT = """
     <li>Having the worksheet with the table active, click <em>save as</em> and choose <em>csv</em> as file type</li>
 </ol>
 </p>
+<h3>Data privacy</h3>
+<p>The uploaded files are stored in memory for as long as the session is active. The produced word files are deleted once they are added to the zip file. The zip file is deleted once downloaded</p>
 <p>Made by <a href="https://www.linkedin.com/in/gkourogiorgas/" >Georgios Kourogiorgas</a></p>
 """
 
